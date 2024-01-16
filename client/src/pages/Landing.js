@@ -265,7 +265,7 @@ const Landing = () => {
               <div className=" lowercase">
                 <p className="uppercase text-blue-500">Contact us</p>
                 <p>admin@lastCashEnterprises.com.ng</p>
-                <p>ismaeelabdulkareem4@gmail.com</p>
+                <p>ijabormarvel@gmail.com</p>
               </div>
             </div>
           </div>
